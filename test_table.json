@@ -29,6 +29,9 @@
     },
     "array": {
       "type": "integer"
+    },
+    "missing": {
+      "type": "string"
     }
   }
 }
