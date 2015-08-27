@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/fivetran/snowplow-schemas/master/hello_world.json",
+    "title": "hello_world",
+    "description": "A very simple custom context",
+    "properties": {
+      "hello": {
+        "type": "string"
+      },
+      "hello_array": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    }
+}
