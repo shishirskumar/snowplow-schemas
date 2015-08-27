@@ -28,7 +28,10 @@
       "multipleOf": 0.001
     },
     "array": {
-      "type": "integer"
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
     },
     "missing": {
       "type": "string"
