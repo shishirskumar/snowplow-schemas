@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/fivetran/snowplow-schemas/master/test_table.json",
+  "type": "object",
   "title": "test_table",
   "description": "A test schema used in Fivetran unit tests",
   "properties": {
